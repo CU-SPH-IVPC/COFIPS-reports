@@ -1,0 +1,1 @@
+This is a public repository intended for publication of COFIPS reports only. index.html contains a link to all reports and will need to be updated with each subsequent report. All data and report development is done in here klittleanschutz/COFIPS-all-yrs and is private, viewable by invitation only
